@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sreya\\Desktop\\Wipro NFSD\\oddeven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27779726-71AB-4706-9FDF-B9DB61D08392}|oddeven\\oddeven.csproj|c:\\users\\sreya\\desktop\\wipro nfsd\\oddeven\\oddeven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27779726-71AB-4706-9FDF-B9DB61D08392}|oddeven\\oddeven.csproj|solutionrelative:oddeven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sreya\\Desktop\\Wipro NFSD\\oddeven\\oddeven\\Program.cs",
+              "RelativeDocumentMoniker": "oddeven\\Program.cs",
+              "ToolTip": "C:\\Users\\sreya\\Desktop\\Wipro NFSD\\oddeven\\oddeven\\Program.cs",
+              "RelativeToolTip": "oddeven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:31:32.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

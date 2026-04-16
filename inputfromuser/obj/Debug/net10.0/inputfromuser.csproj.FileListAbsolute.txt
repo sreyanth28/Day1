@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\bin\Debug\net10.0\inputfromuser.exe
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\bin\Debug\net10.0\inputfromuser.deps.json
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\bin\Debug\net10.0\inputfromuser.runtimeconfig.json
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\bin\Debug\net10.0\inputfromuser.dll
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\bin\Debug\net10.0\inputfromuser.pdb
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.AssemblyInfo.cs
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.dll
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\refint\inputfromuser.dll
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.pdb
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\inputfromuser.genruntimeconfig.cache
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\inputfromuser\obj\Debug\net10.0\ref\inputfromuser.dll

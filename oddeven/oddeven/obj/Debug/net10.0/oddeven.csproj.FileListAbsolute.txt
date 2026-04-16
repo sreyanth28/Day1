@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.AssemblyInfo.cs
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\bin\Debug\net10.0\oddeven.exe
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\bin\Debug\net10.0\oddeven.deps.json
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\bin\Debug\net10.0\oddeven.runtimeconfig.json
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\bin\Debug\net10.0\oddeven.dll
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\bin\Debug\net10.0\oddeven.pdb
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.dll
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\refint\oddeven.dll
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.pdb
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\oddeven.genruntimeconfig.cache
+C:\Users\sreya\Desktop\Wipro NFSD\oddeven\oddeven\obj\Debug\net10.0\ref\oddeven.dll

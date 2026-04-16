@@ -1,0 +1,14 @@
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\bin\Debug\net10.0\Typecasting.exe
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\bin\Debug\net10.0\Typecasting.deps.json
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\bin\Debug\net10.0\Typecasting.runtimeconfig.json
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\bin\Debug\net10.0\Typecasting.dll
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\bin\Debug\net10.0\Typecasting.pdb
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.AssemblyInfoInputs.cache
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.AssemblyInfo.cs
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.csproj.CoreCompileInputs.cache
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.dll
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\refint\Typecasting.dll
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.pdb
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\Typecasting.genruntimeconfig.cache
+C:\Users\sreya\Desktop\Wipro NFSD\Day 1\Typecasting\obj\Debug\net10.0\ref\Typecasting.dll
